@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aatmodhee Goswami and I'm a homeschooled highschool student(class of 2024)
+- 👋 Hi, I’m Aatmodhee Goswami and I'm a UT Computer Science student(class of 2028)
 - 👀 I’m interested in Computer Science, Math, Physics, Music, and Parrots!
-- 🌱 I’m currently studying for AIME, USACO, USAPHO, and my Associate Degree in CS(until December 2022).
+- 🌱 I’m currently a freshman at UT. 
 - 💞️ I’m looking to collaborate on pretty much anything!
-- 📫 My email is atomind2005@gmail.com, and you can call me at +1 737 900 4527
+- 📫 My email is atomind2005@gmail.com
