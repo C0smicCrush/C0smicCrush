@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aatmodhee Goswami and I'm a UT Computer Science student(class of 2028)
+- 👋 Hi, I’m Aatmodhee Goswami and I'm a UT Computer Science student(class of 2027)
 - 👀 I’m interested in Computer Science, Math, Physics, Music, and Parrots!
-- 🌱 I’m currently a freshman at UT. 
-- 💞️ I’m looking to collaborate on pretty much anything!
+- 🌱 I’m currently a freshman at UT working on Quantitative Research
+- 💞️ While I'm not taking on new projects right now, feel free to reach out for advising/guidance
 - 📫 My email is atomind2005@gmail.com
